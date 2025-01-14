@@ -1,7 +1,7 @@
 # micro-cosmos
 
 It's a micro enviroment simulation, where NEAT powered bugs try to survive searching for food and fighting each other.
-![example](https://github.com/HVisMyLife/micro-cosmos/blob/master/assets/docs/screen.png)
+![example](https://github.com/HVisMyLife/micro_cosmos/blob/master/assets/docs/screen.png)
 
 It uses bevy and it's entity component system, instead of, more traditional object oriented approach.
 Every bug have it's own independently evolving neural network and cone-shaped field of view. 
